@@ -62,8 +62,10 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRaj-10&layout=compact&theme=github_dark&hide_border=true" />
-
+<img
+  src="https://github-readme-stats.vercel.app/api?username=AyushRaj-10&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=3600"
+  alt="Ayush Raj GitHub stats"
+/>
 
 ---
 
