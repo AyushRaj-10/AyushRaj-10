@@ -40,6 +40,7 @@
 ![Express](https://img.shields.io/badge/Express-black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032)
@@ -61,12 +62,13 @@
 
 ## 📊 GitHub Stats
 
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushRaj-10&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRaj-10&layout=compact&theme=github_dark&hide_border=true" />
+
 
 ---
 
 ## 📫 Connect With Me
 
 - 📧 **Email:** Ayush145raj@gmail.com  
-- 💼 **LinkedIn:** Ayush Raj  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ayush-raj-b45a17302/
 - 🌐 **GitHub:** https://github.com/AyushRaj-10
