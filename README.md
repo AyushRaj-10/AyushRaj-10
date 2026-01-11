@@ -1,76 +1,107 @@
-# 👋 Hi, I'm Ayush Raj
+<!-- Animated Hero -->
+<div align="center">
+  <img src="https://readme-design-kit.vercel.app/hero/animated?title=Ayush%20Raj&subtitle=Full-Stack%20Developer%20%7C%20Open-Source%20%7C%20Competitive%20Programmer" />
 
-🎓 **B.E. Computer Science** @ Dayananda Sagar College of Engineering  
-💻 Full-Stack Developer | Open-Source Contributor | Competitive Programmer  
+  <br>
 
----
+  <img src="https://komarev.com/ghpvc/?username=AyushRaj-10&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/AyushRaj-10?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/stars/AyushRaj-10?style=for-the-badge&logo=star" />
 
-## 🚀 About Me
+  <br><br>
 
-- 🔥 Passionate about building **scalable web applications**
-- 🌱 Currently exploring **advanced backend, AI integrations & system design**
-- 🤝 Actively contributing to **open-source projects**
-- 🧠 Strong foundation in **DSA, OOP & problem-solving**
-- ⚡ Love participating in **hackathons & coding contests**
-
----
-
-## 🏆 Coding Profiles
-
-- ⭐ **CodeChef Rating:** **1421**
-- 🥇 **2★ CodeChef**
-- 🧩 Regular competitive programming & logic building
-
----
-
-## 🧠 Skills & Tech Stack
-
-### 🧑‍💻 Languages
-![C](https://img.shields.io/badge/C-blue)
-![C++](https://img.shields.io/badge/C++-00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB)
-![HTML](https://img.shields.io/badge/HTML-E34F26)
-![CSS](https://img.shields.io/badge/CSS-1572B6)
-
-### ⚙️ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black)
-![Node.js](https://img.shields.io/badge/Node.js-339933)
-![Express](https://img.shields.io/badge/Express-black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37)
-![Docker](https://img.shields.io/badge/Docker-2496ED)
-![Vercel](https://img.shields.io/badge/Vercel-black)
-![Render](https://img.shields.io/badge/Render-000000)
+  <a href="https://www.linkedin.com/in/ayush-raj-b45a17302/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:Ayush145raj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/AyushRaj-10">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+  </a>
+</div>
 
 ---
 
-## 🌍 Open Source
+## 🧠 About Me
 
-- ✅ Actively contributing to **open-source repositories**
-- 🔍 Interested in **frontend, backend & AI-driven systems**
-- 💡 Believe in learning by **building & collaborating**
+I am a **Computer Science undergraduate at Dayananda Sagar College of Engineering** who enjoys building **scalable full-stack applications**, **backend systems**, and **AI-powered tools**.
 
----
-
-## 📊 GitHub Stats
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=AyushRaj-10&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=3600"
-  alt="Ayush Raj GitHub stats"
-/>
+I love working on real-world products, contributing to **open-source**, and solving problems through **competitive programming**.
 
 ---
 
-## 📫 Connect With Me
+## 🏆 Competitive Programming
 
-- 📧 **Email:** Ayush145raj@gmail.com  
+<div align="center">
+  <img src="https://readme-design-kit.vercel.app/stat/glass?label=CodeChef%20Rating&value=1421" />
+  <img src="https://readme-design-kit.vercel.app/stat/glass?label=CodeChef&value=2%E2%98%85" />
+</div>
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://readme-design-kit.vercel.app/skill/c" />
+<img src="https://readme-design-kit.vercel.app/skill/cpp" />
+<img src="https://readme-design-kit.vercel.app/skill/javascript" />
+<img src="https://readme-design-kit.vercel.app/skill/python" />
+<img src="https://readme-design-kit.vercel.app/skill/html" />
+<img src="https://readme-design-kit.vercel.app/skill/css" />
+
+### Frameworks & Libraries
+<img src="https://readme-design-kit.vercel.app/skill/react" />
+<img src="https://readme-design-kit.vercel.app/skill/nextjs" />
+<img src="https://readme-design-kit.vercel.app/skill/nodejs" />
+<img src="https://readme-design-kit.vercel.app/skill/express" />
+<img src="https://readme-design-kit.vercel.app/skill/mongodb" />
+<img src="https://readme-design-kit.vercel.app/skill/firebase" />
+<img src="https://readme-design-kit.vercel.app/skill/scikitlearn" />
+
+### Tools
+<img src="https://readme-design-kit.vercel.app/skill/git" />
+<img src="https://readme-design-kit.vercel.app/skill/github" />
+<img src="https://readme-design-kit.vercel.app/skill/docker" />
+<img src="https://readme-design-kit.vercel.app/skill/vercel" />
+<img src="https://readme-design-kit.vercel.app/skill/postman" />
+
+</div>
+
+---
+
+## 🌍 Open-Source & Engineering
+
+I actively collaborate on **open-source repositories** and enjoy working on:
+- Frontend architecture  
+- Backend APIs  
+- Cloud deployments  
+- AI integrations  
+
+I believe in learning by **building systems that people actually use**.
+
+---
+
+## 📊 Live GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushRaj-10&show_icons=true&theme=github_dark&hide_border=true" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AyushRaj-10&theme=github-dark&hide_border=true" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushRaj-10&theme=github-dark&hide_border=true" />
+
+---
+
+## 🤝 Let’s Connect
+
+- 📧 **Ayush145raj@gmail.com**
 - 💼 **LinkedIn:** https://www.linkedin.com/in/ayush-raj-b45a17302/
 - 🌐 **GitHub:** https://github.com/AyushRaj-10
