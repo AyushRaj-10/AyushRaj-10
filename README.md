@@ -77,7 +77,9 @@
 
 ## 🧠 Languages by Repository
 
+
 <p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushRaj-10&theme=transparent"/>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushRaj-10&theme=transparent"/>
 </p>
 
