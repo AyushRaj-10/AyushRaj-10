@@ -88,15 +88,16 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-![](https://github-trophies.vercel.app/?username=AyushRaj-10)
+  <img src="https://github-trophies.vercel.app/?username=AyushRaj-10&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-![Stats Card 6](https://github-stats-alpha.vercel.app/api/?username=AyushRaj-10)
+  <img src="https://github-stats-alpha.vercel.app/api/?username=AyushRaj-10" />
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=AyushRaj-10&theme=github-dark&hide_border=true" />
 </p>
